@@ -1,0 +1,4 @@
+interface Criable {
+void  Crier();
+}
+
